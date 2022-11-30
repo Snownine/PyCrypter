@@ -63,11 +63,7 @@ https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df758
   2. cd pycrypt
   3. python3 pycrypt.py
   
-# Demo Video:
-  https://user-images.githubusercontent.com/111642482/189407814-95312bb5-7cac-4ee7-b831-398dea2f96a2.mp4
-
-
-  
+ 
 # Features:-
 
   1) FUD Ratio 0/40
