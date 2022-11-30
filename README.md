@@ -1,8 +1,6 @@
 # pycrypt
 Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
 
-![crp1](https://user-images.githubusercontent.com/111642482/189405321-983e9ed8-2105-4802-8270-56f6311bd211.png)
-
 # Important:
   1. Make Sure your payload file have all the libraries import and it will be a valid payload file
   
